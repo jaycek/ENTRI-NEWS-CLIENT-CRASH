@@ -1,7 +1,7 @@
 import React from 'react'
 import Article from './Article'
 import imageretro from './assets/images/image-retro-pcs.jpg'
-import imagelaptop from 'src/assets/images/image-top-laptops.jpg'
+import imagelaptop from './assets/images/image-top-laptops.jpg'
 
 const Articles = () => {
   return (
